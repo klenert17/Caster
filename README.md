@@ -74,8 +74,8 @@ The dimensions of this are a 80 mm circle with a 8 mm extrusion with 2 75 mm for
 
 ### Image
 
-I still connot figure out how to put the screenshots in
 
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
 ### Reflection
 
 This was the hardest for me to build because I could not figure out how to build the second fork. I figured out that I was putting my sketches on the front plane, insted of on top of the cylinder base. Once I figured this out I used it a lot in the future. 
