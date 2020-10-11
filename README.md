@@ -75,7 +75,7 @@ The dimensions of this are a 80 mm circle with a 8 mm extrusion with 2 75 mm for
 ### Image
 
 
-<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg" width="400">
+
 ### Reflection
 
 This was the hardest for me to build because I could not figure out how to build the second fork. I figured out that I was putting my sketches on the front plane, insted of on top of the cylinder base. Once I figured this out I used it a lot in the future. 
@@ -114,6 +114,8 @@ How to make this can be found	[here](https://cvilleschools.instructure.com/cours
 [The Tire in Onshape](https://cvilleschools.onshape.com/documents/05d2bc5f3de2cd9044b57d98/w/e7c7a0910631ddb86ef3df74/e/178e15fb98a98b9e00c95681)
 
 ### Image
+
+Images/Screenshot%202020-09-25%20at%2012.55.04%20PM.png <img src="Images/Screenshot%202020-09-25%20at%2012.55.04%20PM.png" width="400">
 
 ### Reflection
 
