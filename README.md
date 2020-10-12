@@ -51,7 +51,7 @@ The dimensions of the mount are 120 mm x 120 mm square with a 25 mm circle in th
 
 ### Image
 
-I still cannot figure out how to add a photo.
+<img src="Images/Screenshot%202020-10-12%20at%2012.10.02%20PM.png" width="400">
 
 ### Reflection
 
@@ -74,7 +74,7 @@ The dimensions of this are a 80 mm circle with a 8 mm extrusion with 2 75 mm for
 
 ### Image
 
-
+<img src="Images/Screenshot%202020-10-12%20at%2012.11.33%20PM.png" width="400">
 
 ### Reflection
 
@@ -95,6 +95,7 @@ the dimension of this tire can be found [here](https://cvilleschools.instructure
 [The Tire in Onshape](https://cvilleschools.onshape.com/documents/1cd911023b5a6ed4cd16df21/w/5fb59025d5322bff97ad2825/e/b434df60ec444cf78d93edb2)
 
 ### Image
+<img src="Images/Screenshot%202020-10-12%20at%2012.12.17%20PM.png" width="400">
 
 ### Reflection
 
@@ -115,7 +116,7 @@ How to make this can be found	[here](https://cvilleschools.instructure.com/cours
 
 ### Image
 
-Images/Screenshot%202020-09-25%20at%2012.55.04%20PM.png <img src="Images/Screenshot%202020-09-25%20at%2012.55.04%20PM.png" width="400">
+<img src="Images/Screenshot%202020-10-12%20at%2012.12.52%20PM.png" width="400">
 
 ### Reflection
 
@@ -137,6 +138,8 @@ This was very easy becasue the video linked above was very helpful. I learned ho
 [The Axle and Collar in Onshape](https://cvilleschools.onshape.com/documents/c68f88662776b6e84567653a/w/ddb3ff77acf5f5f06005bed1/e/360c88c2ad5d081445e2cfe9)
 
 ### Image
+
+<img src="Images/Screenshot%202020-10-12%20at%2012.13.31%20PM.png" width="400">
 
 ### Reflection
 
