@@ -146,3 +146,23 @@ This was very easy becasue the video linked above was very helpful. I learned ho
 I learned how to make different parts not connect and how to use the "use" tool.
 
 ---
+
+## Wheel and Axle Assembly
+
+### Description
+
+Using fasten mates I frist connected the wheel with the tire, then I connected two bearings to the wheel, then put my axle through the center of my wheel. 	[This video goes into further depth](https://youtu.be/R4PDBd8H5h8)
+
+### Evidence
+
+[Wheel and Axle in Onshape](https://cvilleschools.onshape.com/documents/b29f0948c606c8a2906817d1/w/8e332be5fceb624b01278985/e/45079e37e9634b3c3e0321c9)
+
+### Image
+
+<img src="Images/Screenshot%202020-10-12%20at%2012.13.31%20PM.png" width="400">
+
+### Reflection
+
+I enforced and used my knowlage on using the fasten mate tool, and this really helped me connect the parts in the way I wanted it to. 
+
+---
