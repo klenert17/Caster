@@ -159,7 +159,7 @@ Using fasten mates I frist connected the wheel with the tire, then I connected t
 
 ### Image
 
-<img src="Images/Screenshot%202020-10-12%20at%2012.13.31%20PM.png" width="400">
+<img src="Images/Screenshot%202020-10-23%20at%201.18.58%20PM.png">
 
 ### Reflection
 
