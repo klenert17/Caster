@@ -151,7 +151,7 @@ I learned how to make different parts not connect and how to use the "use" tool.
 
 ### Description
 
-Using fasten mates I frist connected the wheel with the tire, then I connected two bearings to the wheel, then put my axle through the center of my wheel. 	[This video goes into further depth](https://youtu.be/R4PDBd8H5h8)
+Using fasten mates I first connected the wheel with the tire, then I connected two bearings to the wheel, then put my axle through the center of my wheel. 	[This video goes into further depth](https://youtu.be/R4PDBd8H5h8)
 
 ### Evidence
 
@@ -164,5 +164,24 @@ Using fasten mates I frist connected the wheel with the tire, then I connected t
 ### Reflection
 
 I enforced and used my knowlage on using the fasten mate tool, and this really helped me connect the parts in the way I wanted it to. 
+
+---
+
+## Final Caster Assembly
+
+### Description
+
+Using my knowlage on fasten and revolute mates, I connected all of the parts I made. I connected the wheel to the mount, the mount to the base, etc. and added screws. 	[This video goes into further depth](https://youtu.be/orcp-asikM4)
+
+### Evidence
+
+
+### Image
+
+
+
+### Reflection
+
+I used everything I had learned and created the final product. This project was challanging at some parts, but I just kept picking at it until it worked. This was a fun project. 
 
 ---
