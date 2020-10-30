@@ -178,7 +178,7 @@ Using my knowlage on fasten and revolute mates, I connected all of the parts I m
 
 ### Image
 
-<img src="images/Screenshot%202020-10-30%20at%2011.37.54%20AM.png">
+<img src="Images/Screenshot%202020-10-30%20at%2011.37.54%20AM.png">
 
 ### Reflection
 
