@@ -120,7 +120,7 @@ How to make this can be found	[here](https://cvilleschools.instructure.com/cours
 
 ### Reflection
 
-This was very easy becasue the video linked above was very helpful. I learned how to use circular patterns.
+This was very easy becasue the video linked above was very helpful. This uses circuar patters which are helpful becasue they will evenly space out parts on a circle, insted of having to do it manually. I used circular patterns on the wheels holes.
 
 ---
 
@@ -143,7 +143,7 @@ This was very easy becasue the video linked above was very helpful. I learned ho
 
 ### Reflection
 
-I learned how to make different parts not connect and how to use the "use" tool.
+I learned how to make different parts not connect and how to use the "use" tool. The use tool converts an edge(s) onto a sketch plane. 
 
 ---
 
@@ -163,7 +163,7 @@ Using fasten mates I first connected the wheel with the tire, then I connected t
 
 ### Reflection
 
-I enforced and used my knowlage on using the fasten mate tool, and this really helped me connect the parts in the way I wanted it to. 
+I enforced and used my knowlage on using the fasten mate tool, and this really helped me connect the parts in the way I wanted it to. For parts like the Axle, the revolute mate was more helpful becasue not only does it lock a part into place, it allows it to spin, ulike the fasten mate. The slider mate allows the part to slide only up and down along a chosen line. 
 
 ---
 
@@ -182,6 +182,6 @@ Using my knowlage on fasten and revolute mates, I connected all of the parts I m
 
 ### Reflection
 
-I used everything I had learned and created the final product. This project was challanging at some parts, but I just kept picking at it until it worked. This was a fun project. 
+I used everything I had learned and created the final product. This project was challanging at some parts, but I just kept picking at it until it worked. This was a fun project. For the assembly I used mates to holds parts together and allow parts, like the fork and wheel, to spin.
 
 ---
